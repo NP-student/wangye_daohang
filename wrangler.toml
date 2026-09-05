@@ -1,3 +1,4 @@
+# wrangler.toml
 name = 'wangye-daohang'
 main = "worker/index.ts"
 compatibility_date = "2025-06-01"
