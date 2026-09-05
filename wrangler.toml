@@ -1,5 +1,4 @@
-# wrangler.toml
-name = 'wangye-daohang'
+name = "cf-navs"
 main = "worker/index.ts"
 compatibility_date = "2025-06-01"
 compatibility_flags = ["nodejs_compat"]
